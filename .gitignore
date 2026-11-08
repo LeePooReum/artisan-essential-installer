@@ -1,0 +1,4 @@
+script.build.ps1
+launcher.res
+*.exe
+install_log.txt
