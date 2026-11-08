@@ -3,7 +3,7 @@
 윈도우를 새로 깔고 자주 쓰는 프로그램을 골라 한 번에 설치하는 도구입니다.
 winget을 기반으로 하며, ArtisanOS와 같은 디자인의 WPF 화면을 씁니다.
 
-**다운로드:** [Releases](../../releases/latest)에서 `필수프로그램설치도구_v2.0_정식판.exe`를 받으세요.
+**다운로드:** [Releases](../../releases/latest)에서 `ArtisanEssentialInstaller_v2.0.0.exe`를 받으세요. 화면에는 "필수프로그램설치도구_v2.0_정식판.exe"로 표시됩니다(GitHub가 첨부 파일 이름의 한글을 지워서 영문 이름으로 올렸습니다).
 
 ## 사용 방법
 
