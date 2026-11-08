@@ -55,6 +55,10 @@ powershell -ExecutionPolicy Bypass -File .\build.ps1
 - `icons\*.png`는 스크립트 안에 base64로 들어가고, `Fonts\*.otf`는 EXE 리소스로 들어갑니다.
 - 결과물은 `필수프로그램설치도구_v2.0_정식판.exe`입니다.
 
+## 라이선스
+
+이 프로젝트의 코드는 [MIT 라이선스](LICENSE)를 따릅니다. 아래 '포함된 자료'는 각자의 라이선스와 권리를 따르며, MIT 라이선스에 포함되지 않습니다.
+
 ## 포함된 자료
 
 - 글꼴: [Pretendard](https://github.com/orioncactus/pretendard) (SIL Open Font License 1.1, `Fonts/LICENSE.txt`)
